@@ -1,0 +1,11 @@
+tgcrypto
+uvloop
+requests
+aiohttp
+aiofiles
+aria2p
+pyrofork==2.2.11
+python-dotenv
+gunicorn
+gevent
+flask
