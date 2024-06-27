@@ -6,6 +6,5 @@ services:
     region: frankfurt # Default: oregon
     plan: free
     repo: https://github.com/oVo-HxBots/Terabox-Downloader-Bot.git # Default: Repo containing render.yaml
-    rootDir: / # Default: Repo root
     dockerCommand: bash start.sh # Default: Dockerfile CMD
     healthCheckPath: /
