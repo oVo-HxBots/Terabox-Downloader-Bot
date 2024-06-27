@@ -1,0 +1,8 @@
+# A web service that builds from a Dockerfile
+  - type: web
+    runtime: docker
+    name: Terabox-Downloader-Bot
+    repo: https://github.com/oVo-HxBots/Terabox-Downloader-Bot.git # Default: Repo containing render.yaml
+    rootDir: / # Default: Repo root
+    dockerCommand: bash start.sh # Default: Dockerfile CMD
+    healthCheckPath: /
