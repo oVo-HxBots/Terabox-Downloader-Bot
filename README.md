@@ -14,7 +14,13 @@
 ## Deployment
 
 ### Render
-#### [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/oVo-HxBots/Terabox-Downloader-Bot)
+#### Step 1: 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/oVo-HxBots/Terabox-Downloader-Bot)
+
+#### Step 2: Register at [Uptime-Robot](https://dashboard.uptimerobot.com/)
+
+#### Step 3: Add new monitor. Use Link from render deployment for monitor.
+
  ----
  
 ### VPS
